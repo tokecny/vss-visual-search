@@ -40,9 +40,9 @@ function App() {
     if (id !== null) {
       setUserId(id);
     } else {
-      if (window.location.href === "https://tokecny/vss-visual-search"){
+      if (window.location.href === "https://tokecny.github.io/vss-visual-search/"){
       } else {
-        window.location.replace("https://tokecny/vss-visual-search");
+        window.location.replace("https://tokecny.github.io/vss-visual-search/");
       }
     }
 
