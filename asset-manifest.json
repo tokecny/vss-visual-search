@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/vss-visual-search/static/css/main.95ae3a30.css",
-    "main.js": "/vss-visual-search/static/js/main.477331b0.js",
-    "static/js/845.538fd7ea.chunk.js": "/vss-visual-search/static/js/845.538fd7ea.chunk.js",
-    "static/js/787.7c104ca9.chunk.js": "/vss-visual-search/static/js/787.7c104ca9.chunk.js",
-    "static/media/combo2.mp3": "/vss-visual-search/static/media/combo2.dc4a26f58622d3a5a4c0.mp3",
-    "static/media/conjs-img.png": "/vss-visual-search/static/media/conjs-img.d1ba3970365015d5ee9b.png",
-    "static/media/click.mp3": "/vss-visual-search/static/media/click.bac13dc239761d7d5b08.mp3",
-    "static/media/losingStreak.mp3": "/vss-visual-search/static/media/losingStreak.3e9f53afed48af7cc022.mp3",
-    "index.html": "/vss-visual-search/index.html",
-    "main.95ae3a30.css.map": "/vss-visual-search/static/css/main.95ae3a30.css.map",
-    "main.477331b0.js.map": "/vss-visual-search/static/js/main.477331b0.js.map",
-    "845.538fd7ea.chunk.js.map": "/vss-visual-search/static/js/845.538fd7ea.chunk.js.map",
-    "787.7c104ca9.chunk.js.map": "/vss-visual-search/static/js/787.7c104ca9.chunk.js.map"
+    "main.css": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/css/main.95ae3a30.css",
+    "main.js": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/js/main.477331b0.js",
+    "static/js/845.538fd7ea.chunk.js": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/js/845.538fd7ea.chunk.js",
+    "static/js/787.7c104ca9.chunk.js": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/js/787.7c104ca9.chunk.js",
+    "static/media/combo2.mp3": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/media/combo2.dc4a26f58622d3a5a4c0.mp3",
+    "static/media/conjs-img.png": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/media/conjs-img.d1ba3970365015d5ee9b.png",
+    "static/media/click.mp3": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/media/click.bac13dc239761d7d5b08.mp3",
+    "static/media/losingStreak.mp3": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/media/losingStreak.3e9f53afed48af7cc022.mp3",
+    "index.html": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/index.html",
+    "main.95ae3a30.css.map": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/css/main.95ae3a30.css.map",
+    "main.477331b0.js.map": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/js/main.477331b0.js.map",
+    "845.538fd7ea.chunk.js.map": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/js/845.538fd7ea.chunk.js.map",
+    "787.7c104ca9.chunk.js.map": "https://https://tokecny.github.io/vss-visual-search/vss-visual-search/static/js/787.7c104ca9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95ae3a30.css",
