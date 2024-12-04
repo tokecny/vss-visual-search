@@ -37,7 +37,7 @@ function LandingPage() {
     // ถ้ายังไม่เคยรีโหลด
     if (!hasReloaded) {
       sessionStorage.setItem('hasReloaded', 'true'); // ตั้งค่าใน sessionStorage
-      window.location.reload(); // ทำการรีโหลดหน้าเว็บ
+      // window.location.reload(); // ทำการรีโหลดหน้าเว็บ
     }
   }, []);;
 
